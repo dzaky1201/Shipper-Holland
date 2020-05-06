@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "499400801098",
+    "firebase_url": "https://eatorderapps.firebaseio.com",
+    "project_id": "eatorderapps",
+    "storage_bucket": "eatorderapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499400801098:android:0169b4860d68eb5b8e9fb3",
+        "android_client_info": {
+          "package_name": "com.dzakyhdr.fixholand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499400801098-1ubgkltlrpvf479i4su7jl0rbffja7dk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dzakyhdr.fixholand",
+            "certificate_hash": "044d26826742ddba78ad9fddac1d91bfd6580ac4"
+          }
+        },
+        {
+          "client_id": "499400801098-80kbt5mfnk8nq3j3sgu6l5m2krv4sqlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArmmjtjNbQlGcYhm9Ia8Gll6ufi2nAp8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499400801098-80kbt5mfnk8nq3j3sgu6l5m2krv4sqlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499400801098:android:419a5b1b2f42c4a38e9fb3",
+        "android_client_info": {
+          "package_name": "com.dzakyhdr.holandshipper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499400801098-80kbt5mfnk8nq3j3sgu6l5m2krv4sqlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArmmjtjNbQlGcYhm9Ia8Gll6ufi2nAp8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499400801098-80kbt5mfnk8nq3j3sgu6l5m2krv4sqlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499400801098:android:9bd5b6ef7f3763c88e9fb3",
+        "android_client_info": {
+          "package_name": "com.dzakyhdr.hollandbakeryserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499400801098-80kbt5mfnk8nq3j3sgu6l5m2krv4sqlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArmmjtjNbQlGcYhm9Ia8Gll6ufi2nAp8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499400801098-80kbt5mfnk8nq3j3sgu6l5m2krv4sqlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
